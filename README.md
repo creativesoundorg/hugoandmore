@@ -42,7 +42,7 @@ In Zukunft werden weitere Markenhersteller hinzugefügt werden.
 
 weitere Projekte:
 
-https://github.com/creativesoundorg/hugoandmore/
+https://github.com/creativesoundorg/datakids/
 
 HugoAndMore bei Facebook:
 
